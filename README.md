@@ -1,4 +1,4 @@
-"# ALHashGUI" 
+ALHashGUI
 Excel Sheet Protection Data Extractor
 Overview
 This tool provides a simple GUI to extract and convert sheet protection data from Excel files (.xlsx). It is designed to assist in the analysis and handling of sheet protection data by converting it into a standardized format that can be easily used for further processing or auditing purposes.
